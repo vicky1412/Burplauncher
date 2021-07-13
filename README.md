@@ -13,6 +13,10 @@ so coded to automatically do the patch for me and hide the meshy cmd black scree
 and added the shortcut to my desktop so whenever i want i just click the burplauncher application to open 
 the burp application.
 
+Note: before Using this add the burp application file path to the python script
+
 language : python
 
 module used : pynput(keyboard controller), subprocess
+
+
